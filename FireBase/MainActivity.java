@@ -48,8 +48,8 @@ public class MainActivity extends AppCompatActivity {
 
         //Toast.makeText(this, mDatabaseReference.toString(), Toast.LENGTH_SHORT).show();
 
-       mDatabaseReference = mDatabase.getReference().child("users/1");
-       User u = new User("itay", 18);
-       mDatabaseReference.setValue(u);
+       //mDatabaseReference = mDatabase.getReference().child("users/1");
+       //User u = new User("itay", 18);
+      // mDatabaseReference.setValue(u);
     }
 }
