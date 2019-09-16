@@ -1,4 +1,4 @@
-package com.example.itaykan.fbfb3;
+package com.example.itaykan.firebase1;
 
 
 public class User {
